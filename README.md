@@ -7,4 +7,4 @@ OpenFoodFacts DB:
 
 #### How:
 - Database Cleaning: relevant filter (e.g. french market), managing missing values, erroneous values, outliers, etc.
-- Database Exploration: Univariate & Bivariate analysis, Statistic test, PCA visualisation
+- <b>Database Exploration: Univariate & Bivariate analysis, Statistic test, PCA visualisation</b>
