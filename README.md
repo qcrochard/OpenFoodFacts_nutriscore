@@ -9,5 +9,9 @@ https://fr.openfoodfacts.org/
 - think about recipe's generators from healthyness pov
 
 #### How:
-- Database Cleaning: relevant filter (e.g. french market), managing missing values, erroneous values, outliers, etc.
-- <b>Database Exploration: Univariate & Bivariate analysis, Statistic test, PCA visualisation</b>
+- Datasource: fr.openfoodfacts.org.products.csv.zip
+- Database Cleaning notebook : relevant filter (e.g. french market), managing missing values, erroneous values, outliers, etc.
+- <b>Data Exploration EDA notebook : Univariate & Bivariate analysis, Statistic test, PCA visualisation</b>
+
+#### Conclusion
+PDF report available in french: "P2 - Rapport d'exploration FR.pdf"
