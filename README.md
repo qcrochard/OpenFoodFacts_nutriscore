@@ -13,5 +13,5 @@ https://fr.openfoodfacts.org/
 - Database Cleaning notebook : relevant filter (e.g. french market), managing missing values, erroneous values, outliers, etc.
 - <b>Data Exploration EDA notebook : Univariate & Bivariate analysis, Statistic test, PCA visualisation</b>
 
-#### Conclusion
-PDF report available in french: "P2 - Rapport d'exploration FR.pdf"
+#### Conclusion:
+Brief summary available in PDF french report: "P2 - Rapport d'exploration FR.pdf"
