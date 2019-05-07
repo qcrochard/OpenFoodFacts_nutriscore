@@ -1,8 +1,11 @@
 OpenFoodFacts DB:
 ===
+
+https://fr.openfoodfacts.org/
+
 #### Objectives: 
-- understanding what's a healthy product, what features are important
-- investigate nutri-score - food healthyness indicator
+- understanding what's a healthy product according to the nutri-score
+- investigate nutri-score - food healthyness indicator, what features are important
 - think about recipe's generators from healthyness pov
 
 #### How:
